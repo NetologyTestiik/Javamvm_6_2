@@ -2,7 +2,7 @@ package ru.netology.javaga;
 
 import org.testng.annotations.Test;
 import org.junit.jupiter.api.Assertions;
-import ru.netology.javaga.BonusService;
+
 
 public class BonusServiceTest {
 
